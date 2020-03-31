@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="Style_Code" type="id" />
+    <item name="eLayFb_Code" type="id" />
+    <item name="eBind" type="id" />
+    <item name="eBind_Size" type="id" />
+    <item name="eBind_Color" type="id" />
+    <item name="eBind_Amount" type="id" />
+    <item name="editBind_Plant" type="id" />
+    <item name="Emprocess" type="id" />
+    <item name="Emgroup" type="id" />
+    <item name="btnSvae" type="id" />
+</resources>
